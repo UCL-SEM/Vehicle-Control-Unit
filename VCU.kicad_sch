@@ -16844,7 +16844,7 @@
 		)
 		(uuid "e4f0801f-817d-4285-9b67-47c9be76540b")
 	)
-	(text "For 5 mA draw with approx\n1.1 VF each LED, (12-1.1*2) / (5/1000)\nis 1960 therefore select R = 2k.\nValues chosen give approx 60 mW used"
+	(text "For 2 mA draw with approx\n1.1 VF each LED, (12-1.1*2) / (2/1000)\nis 4900 therefore select R = 4.9k.\nValues chosen give approx 12*2 = 24 mW used"
 		(exclude_from_sim no)
 		(at 548.386 205.74 0)
 		(effects
@@ -17484,7 +17484,7 @@
 	)
 	(text "Fuel Cell Input"
 		(exclude_from_sim no)
-		(at 154.94 101.6 0)
+		(at 152.4 102.362 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17529,7 +17529,7 @@
 	)
 	(text "GNSS"
 		(exclude_from_sim no)
-		(at 428.752 138.176 0)
+		(at 427.99 181.356 0)
 		(effects
 			(font
 				(size 1.27 1.27)
